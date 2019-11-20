@@ -1,0 +1,28 @@
+
+
+
+.carousel-item{
+    height: auto;
+    max-height: 900px;
+    
+}
+
+.carousel img{
+    
+    object-fit: contain;
+    object-position: 0% 50%;
+}
+
+
+.carousel-item h5{
+    color: black; 
+}
+
+.carousel-item p{
+    color: black; 
+}
+
+.card{
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
