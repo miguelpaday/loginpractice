@@ -1,4 +1,5 @@
 {
     "appService.defaultWebAppToDeploy": "/subscriptions/1491092a-bc55-4ba6-8041-d5dded78fea4/resourceGroups/Practice/providers/Microsoft.Web/sites/miguelpaday",
-    "appService.deploySubpath": ""
+    "appService.deploySubpath": "",
+    "git.ignoreLimitWarning": true
 }
