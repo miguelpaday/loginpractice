@@ -9,3 +9,6 @@ def index(request):
 
 def v1(response):
     return HttpResponse("View 1")
+
+def login(request):
+    return HttpResponse("Oten AAHAHHAHAHHAHHAHA")
